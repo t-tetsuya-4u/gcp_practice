@@ -1,3 +1,3 @@
 #! /bin/bash
 echo 'Hello Python'
-python show_sum.py
+python show_sum.py $1 $2
